@@ -1,4 +1,4 @@
-# DuckSide Raid helper
+# App template
 ## Compose Multiplatform Application
 
 ## Before running!
