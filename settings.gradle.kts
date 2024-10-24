@@ -1,4 +1,4 @@
-rootProject.name = "DuckSide-Raid-helper"
+rootProject.name = "App Template"
 include(":composeApp")
 
 pluginManagement {
