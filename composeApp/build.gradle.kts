@@ -99,14 +99,14 @@ kotlin {
 }
 
 android {
-    namespace = "ru.kalistratov.duckside.raidhelper"
+    namespace = _group
     compileSdk = 34
 
     defaultConfig {
         minSdk = _minSdk
         targetSdk = _targetSdk
 
-        applicationId = "ru.kalistratov.duckside.raidhelper.androidApp"
+        applicationId = "$_group.androidApp"
         versionCode = 1
         versionName = "1.0.0"
 
